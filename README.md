@@ -41,7 +41,7 @@ The objective is to build strong intuition around how machines **interpret, tran
 ## 🧠 **Pipeline Architecture**
 
 <div align="center">
-<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="500"/>
+<img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="300"/>
 </div>
 
 | Stage          | Description                               |
